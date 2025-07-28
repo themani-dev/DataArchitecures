@@ -6,6 +6,19 @@ Welcome to the **Cloud Data Engineering Architectures** repository — a curated
 
 ---
 
+## 📚 Index
+
+- [🚀 Project Goal](#-project-goal)
+- [🧱 Repository Structure](#-repository-structure)
+- [🧱 Architectures Included](#-architectures-included)
+- [☁️ Platform-Specific Patterns](#️-platform-specific-patterns)
+- [🧠 Decision-Making Guide](#-decision-making-guide)
+- [🔮 Future Additions](#-future-additions)
+- [🤝 Contributing](#-contributing)
+- [📜 License](#-license)
+
+---
+
 ## 🚀 Project Goal
 
 Cloud data architectures are not one-size-fits-all. Choosing the right architecture requires balancing:
